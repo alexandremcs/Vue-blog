@@ -61,7 +61,7 @@ Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser execu
 ```
 ## Demo da Aplicação (Offline) ⭐️
 
-Para visualizar a demo da aplicação na nuvem, bastam acessar o link **[AQUI]()**.
+Para visualizar a demo da aplicação na nuvem, bastam acessar o link **[AQUI](https://zesty-smakager-b23d25.netlify.app/)**.
 
 
 ## Tenho Dúvidas... O que Faço?! ❓
